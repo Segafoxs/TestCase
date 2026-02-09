@@ -78,7 +78,7 @@
 
 | Действие |  Ожидаемый результат | 
 |----------|-------------------|
-| 1. Перейти на вкладку Topics |  | Открыта таблица топиков |
+| 1. Перейти на вкладку Topics |  Открыта таблица топиков |
 | 2. В левом верхнем углу над таблицей в поисковую строку ввести название топика | В таблице отображается два топика public.eventing.global.notifications.requested.v1 public.eventing.global.notifications.requested.v1.DLT |
 | 3. Перейти в топик public.eventing.global.notifications.requested.v1 во вкладку Data | Открыта вкладка Data |
 | 4. В правом нижнем углу нажать на голубую кнопку "Produce to topic"|  Открыта вкладка Produce to public.eventing.global.notifications.requested.v1 |
